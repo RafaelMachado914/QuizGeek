@@ -1,0 +1,42 @@
+body{
+    background-color: #4e6bbf;
+}
+h1{
+    background-color: #f28705;
+    border-radius: 15px;
+    padding: 10px 20px;
+    display: inline-block;
+    font-family: sans-serif;
+    color: #1c2605;
+}
+h2{
+    font-family: sans-serif;
+    color: #1c2605;
+    font-size: 170%;
+
+}
+p{
+   font-family: sans-serif;
+   background-color: #f28705;
+   border-radius: 15px;
+   padding: 10px 20px;
+   display: inline-block;
+   color: #1c2605;
+   font-size: 130%;
+}
+button{
+   border-radius: 15px;
+   font-family: sans-serif;
+   color: #1c2605;
+   background-color: #f28705;
+   width: 100px;
+   height: 50px;
+   cursor: pointer;
+  
+}
+.cl-img{
+    border: 3px solid #f28705;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px #f28705,
+    0px 0px 15px #f28705 inset;
+}
